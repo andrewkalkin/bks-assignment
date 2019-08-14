@@ -1,0 +1,32 @@
+{
+  "stocks":[
+    {
+      "symbol":"AAWW",
+      "volume":20
+    },
+    {
+      "symbol":"PCTI",
+      "volume":30
+    },
+    {
+      "symbol":"HOG",
+      "volume":10
+    },
+    {
+      "symbol":"YNDX",
+      "volume": 11
+    },
+    {
+      "symbol":"IDRA",
+      "volume":4
+    },
+    {
+      "symbol":"MRSN",
+      "volume": 8
+    },
+    {
+      "symbol":"AAPL",
+      "volume": 2
+    }
+  ]
+}

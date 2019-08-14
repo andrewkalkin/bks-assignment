@@ -1,0 +1,17 @@
+{
+  "symbol": "YNDX",
+  "companyName": "Yandex NV",
+  "exchange": "NASDAQ",
+  "industry": "Internet Software/Services",
+  "website": "http://www.yandex.com",
+  "description": "Yandex NV operates as an investment holding company, which engages in the provision of search engines and online services. It operates through the following business segments: Search and Portal, E-commerce, Taxi, Media Services and Classifieds. The Search and Portal segment includes all the services offered in Russia, Belarus and Kazakhstan. The E-Commerce segment is comprised of the Yandex Market service. The Taxi Segment (including ride-sharing business, which consists of Yandex Taxi as well as Uber in Russia and other countries, Food Delivery business, which includes Yandex EATs, Uber. EATs and Food Party, meal kit subscription service and the Self-Driving Cars division). The Media Services Segment (including KinoPoisk, Yandex Music, Yandex Afisha, Yandex TV program, the Company's production center Yandex. Studio and subscription service Yandex. Plus launched in Q1 and Q2 2018 respectively) which derives revenue from online advertising and transaction revenues, including music and video content subscriptions as well as event tickets sales. The Classifieds Segment (including Auto ru, Yandex Realty and Yandex Jobs) which derives revenues from online advertising and listing fees. The company was founded by Elena Kolmanovskaya, Ilya Segalovich, Mikhail Fadeev, and Arkady Volozh in 2000 and is headquartered in Amsterdam, the Netherlands.",
+  "CEO": "Arkady Volozh",
+  "securityName": "Yandex NV Class A",
+  "issueType": "cs",
+  "sector": "Technology Services",
+  "employees": 8767,
+  "tags": [
+    "Technology Services",
+    "Internet Software/Services"
+  ]
+}

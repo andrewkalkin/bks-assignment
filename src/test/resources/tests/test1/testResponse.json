@@ -1,0 +1,25 @@
+{
+  "value": 10497,
+  "allocations": [
+    {
+      "sector": "Health Technology",
+      "assetValue": 5,
+      "proportion": 0.000
+    },
+    {
+      "sector": "Electronic Technology",
+      "assetValue": 10087,
+      "proportion": 0.961
+    },
+    {
+      "sector": "Technology Services",
+      "assetValue": 91,
+      "proportion": 0.009
+    },
+    {
+      "sector": "Consumer Durables",
+      "assetValue": 313,
+      "proportion": 0.030
+    }
+  ]
+}

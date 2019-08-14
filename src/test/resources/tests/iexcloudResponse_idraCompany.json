@@ -1,0 +1,17 @@
+{
+  "symbol": "IDRA",
+  "companyName": "Idera Pharmaceuticals, Inc.",
+  "exchange": "NASDAQ",
+  "industry": "Biotechnology",
+  "website": "http://www.iderapharma.com",
+  "description": "Idera Pharmaceuticals, Inc. is a clinical stage biopharmaceutical company, which focuses on the clinical development, and commercialization of drug candidates for both oncology and rare disease indications. The company was founded by Paul C. Zamecnik, Sudhir A. Agrawal, and James B. Wyngaarden on May 25, 1989 and is headquartered in Cambridge, MA.",
+  "CEO": "Vincent J. Milano",
+  "securityName": "Idera Pharmaceuticals, Inc.",
+  "issueType": "cs",
+  "sector": "Health Technology",
+  "employees": 36,
+  "tags": [
+    "Health Technology",
+    "Biotechnology"
+  ]
+}

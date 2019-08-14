@@ -1,0 +1,17 @@
+{
+  "symbol": "HOG",
+  "companyName": "Harley-Davidson, Inc.",
+  "exchange": "New York Stock Exchange",
+  "industry": "Motor Vehicles",
+  "website": "http://www.harley-davidson.com",
+  "description": "Harley-Davidson, Inc. is engaged in the manufacture and sale of custom, cruiser and touring motorcycles. It operates through the Motorcycles and Related Products; and Financial Services segments. The Motorcycles and Related Products segment manufactures, designs, and sells at wholesale on-road Harley-Davidson motorcycles as well as motorcycle parts, accessories, general merchandise, and related services. The Financial Services segment comprises of financing and servicing wholesale inventory receivables and retail consumer loans, primarily for the purchase of Harley-Davidson motorcycles. The company was founded by William Sylvester Harley, Arthur Davidson, Walter C. Davidson, Sr. and William A. Davidson in 1903 and is headquartered in Milwaukee, WI.",
+  "CEO": "Matthew S. Levatich",
+  "securityName": "Harley-Davidson, Inc.",
+  "issueType": "cs",
+  "sector": "Consumer Durables",
+  "employees": 5300,
+  "tags": [
+    "Consumer Durables",
+    "Motor Vehicles"
+  ]
+}

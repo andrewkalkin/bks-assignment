@@ -1,0 +1,17 @@
+{
+  "symbol": "ABCB",
+  "companyName": "Ameris Bancorp",
+  "exchange": "NASDAQ",
+  "industry": "Regional Banks",
+  "website": "http://www.amerisbank.com",
+  "description": "Ameris Bancorp is a bank holding company, which through the subsidiary, Ameris Bank, engages in the provision of banking services to its retail and commercial customers. It operates through the following business segments: Banking, Retail Mortgage, Warehouse Lending, the SBA and Premium Finance. The Banking segment offers full service financial services to include commercial loans, consumer loans and deposit accounts. The Retail Mortgage segment includes origination, sales, and servicing of one-to-four family residential mortgage loans. The Warehouse Lending segment includes the origination and servicing of warehouse lines to other businesses that are secured by underlying one-to-four family residential mortgage loans. The SBA segment comprises of origination, sales, and servicing of small business administration loans. The Premium Finance segment comprises origination and servicing of commercial insurance premium finance loans. The company was founded on December 18, 1980 and is headquartered in Moultrie, GA.",
+  "CEO": "H. Palmer Proctor",
+  "securityName": "Ameris Bancorp",
+  "issueType": "cs",
+  "sector": "Finance",
+  "employees": 1804,
+  "tags": [
+    "Finance",
+    "Regional Banks"
+  ]
+}

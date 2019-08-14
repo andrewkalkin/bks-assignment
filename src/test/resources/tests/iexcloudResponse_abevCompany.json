@@ -1,0 +1,17 @@
+{
+  "symbol": "ABEV",
+  "companyName": "Ambev SA",
+  "exchange": "New York Stock Exchange",
+  "industry": "Beverages: Alcoholic",
+  "website": "http://www.ambev.com.br",
+  "description": "Ambev SA engages in the production, distribution, and sale of beverages. Its products include beer, carbonated soft drinks, and other non-alcoholic and non-carbonated products. The company operates through the following segments: Latin America North, Latin America South, and Canada. The Latin America North segment includes the operations in Brazil through the Beer Sales and the Non-Alcoholic Beverages divisions; as well as the Central America and Caribbean operations. The Latin America South segment includes operations in Argentina, Bolivia, Paraguay, Uruguay, and Chile. The Canada segment represents Labatt's operations, which includes domestic sales in Canada and some export to the U.S. market. The company was founded on July 8, 2005 and is headquartered in São Paulo, Brazil.",
+  "CEO": "Bernardo Pinto Paiva",
+  "securityName": "Ambev SA Sponsored ADR",
+  "issueType": "ad",
+  "sector": "Consumer Non-Durables",
+  "employees": 50000,
+  "tags": [
+    "Consumer Non-Durables",
+    "Beverages: Alcoholic"
+  ]
+}
