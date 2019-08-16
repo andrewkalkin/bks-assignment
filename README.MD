@@ -2,7 +2,7 @@
 
 ### Сборка проекта
 
-Перед сборкой положьте файл `credentials.properties` в директории:
+Перед сборкой положите файл `credentials.properties` в директории:
 - src/main/resources
 - src/test/resources
 
@@ -10,7 +10,7 @@
 
 Пример: `iexcloud.user.publishableToken=pk_23jhjdh32j43h443h43h43h4h13h44`
 
-Проект собирается запуском команды `gradlew bootJar` в директории с проектом. После выполнения команды сборку можно найти по пути `build/libs/bks-assignment-x.x.x.jar`.
+Проект собирается запуском команды `gradle bootJar` в директории с проектом. После выполнения команды сборку можно найти по пути `build/libs/bks-assignment-x.x.x.jar`.
 
 ### Запуск приложения
 
